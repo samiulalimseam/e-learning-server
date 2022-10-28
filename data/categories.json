@@ -1,0 +1,179 @@
+[
+    {
+       "id": 1,
+       "courses": 5,
+       "instructors": 12,
+       "students": 251,
+       "name": "Data Science",
+       "img": "https://cdn-icons-png.flaticon.com/512/3716/3716795.png",
+       "course": [
+          {
+             "id": 111,
+             "Name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+             "time": 1,
+             "enrolled": 100,
+             "category":"Data Science" ,
+             "price": 0,
+             "description": "Interested in the field of Machine Learning? Then this course is for you! This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way. We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.",
+             "level": "beginner",
+             "instructor": "Samiul Alim",
+             "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg"
+          },
+          {
+             "id": 112,
+             "Name": "The Data Science Course 2022: Complete Data Science Bootcamp",
+             "time": 2,
+             "enrolled": 120,
+             "category":"Data Science" ,
+             "price": 50,
+             "description": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist.   Universities have been slow at creating specialized data science programs. (not to mention that the ones that exist are very expensive and time consuming) Most online courses focus on a specific topic and it is difficult to understand how the skill they teach fit in the complete picture  ",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "beginner",
+             "instructor": "Samuel Hades",
+             "image": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/3/2022_3$largeimg_1263359305.jpg"
+          },
+          {
+             "id": 113,
+             "Name": "R Programming A-Z™: R For Data Science With Real Exercises!",
+             "time": 4,
+             "enrolled": 20,
+
+            "category":   "Data Science",
+           "price": 120,
+             "description": "Learn R Programming by doing! There are lots of R courses and lectures out there. However, R has a very steep learning curve and students often get overwhelmed. This course is different!This course is truly step-by-step. In every new tutorial we build on what had already learned and move one extra step forward.After every video, you learn a new valuable concept that you can apply right away. And the best part is that you learn through live examples.This training is packed with real-life analytical challenges which you will learn to solve. Some of these we will solve together, some you will have as homework exercises.",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "Intermidiate",
+             "instructor": "Richardo",
+             "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg"
+          }
+       ]
+    },
+    {
+       "id": 2,
+       "courses": 3,
+       "instructors": 11,
+       "students": 122,
+       "name": "AWS Certification",
+       "img": "https://cdn-icons-png.flaticon.com/512/149/149209.png",
+       "course": [
+          {
+             "id": 121,
+             "Name": "Ultimate AWS Certified Solutions Architect Associate SAA-C03",
+             "time": 1,
+             "enrolled": 100,
+             "category":"AWS" ,
+             "price": 79,
+             "description": "Welcome! I'm here to help you prepare and PASS the NEWEST AWS Certified Solutions Architect Associate SAA-C03 exam [Course FULLY updated] ull Practice Exam | Learn Cloud Computing | Pass the AWS Certified Solutions Architect Associate Certification SAA-C03!",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "beginner",
+             "instructor": "Roger Hart",
+             "image": "https://allcode.com/wp-content/uploads/2021/02/Group-169-3.png"
+          },
+          {
+             "id": 122,
+             "Name": "Amazon Web Services (AWS) Certified 2022 - 4 Certifications!",
+             "time": 1,
+             "enrolled": 100,
+             "category":"AWS" ,
+             "price": 129,
+             "description": "Amazon Web Services (AWS) Certified 2022 - 4 Certifications! Welcome! I'm here to help you prepare and PASS the NEWEST AWS Certified Solutions Architect Associate SAA-C03 exam [Course FULLY updated] ull Practice Exam | Learn Cloud Computing | Pass the AWS Certified Solutions Architect Associate Certification SAA-C03!",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "beginner",
+             "instructor": "Roger Hart",
+             "image": "https://images.clickittech.com/2020/wp-content/uploads/2020/03/30204034/Top-10-AWS-Services.jpg"
+          }
+       ]
+    },
+    {
+       "id": 3,
+       "courses": 8,
+       "instructors": 16,
+       "students": 214,
+       "name": "Web Development",
+       "img": "https://cdn-icons-png.flaticon.com/512/84/84471.png",
+       "course": [
+          {
+             "id": 131,
+             "Name": "The Web Developer Bootcamp 2022",
+             "time": 1,
+             "enrolled": 100,
+             "category": "Web Development" ,
+             "price": 129,
+             "description": "The Web Developer Bootcamp 2022 This is a so long description of this course. Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.  Here's why: Its an excellent course for skill development",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "Intermidiate",
+             "instructor": "Samiul Alim",
+             "image": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png"
+          }
+       ]
+    },
+    {
+       "id": 4,
+       "courses": 4,
+       "instructors": 11,
+       "students": 111,
+       "name": "Python",
+       "img": "https://cdn-icons-png.flaticon.com/512/5968/5968286.png",
+       "course": [
+          {
+             "id": 141,
+             "Name": "Python Course for Beginner",
+             "time": 1,
+             "enrolled": 100,
+             "category":"Python" ,
+             "price": 189,
+             "description": " Python Course for Beginner This is a so long description of this course. Its an excellent course for skill development",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "beginner",
+             "instructor": "Leo Chaser",
+             "image": "https://www.online-tech-tips.com/wp-content/uploads/2021/11/New-Featured-Image.jpg"
+          }
+       ]
+    },
+    {
+       "id": 5,
+       "courses": 2,
+       "instructors": 17,
+       "students": 432,
+       "name": "Excel",
+       "img": "https://cdn-icons-png.flaticon.com/512/2822/2822607.png",
+       "course": [
+          {
+             "id":151,
+             "Name": "Microsoft Excel - Excel from Beginner to Advanced",
+             "time": 1,
+             "enrolled": 100,
+             "category": "Excel" ,
+             "price": 80,
+             "description": "Enroll now to go through a deep dive of the most popular spreadsheet tool on the market, Microsoft Excel. As a Microsoft Certified Trainer I will use my 20+ years of Excel training to guide you step by step through the beginner to advanced level and beyond.As you participate in each of the 4 courses you will master Excel tools that will clear away the pain of stumbling through your daily tasks. You will start with the basics, building a solid foundation that will give you further knowledge as you progress into intermediate and advanced level topics.",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "beginner",
+             "instructor": "Samiulgbfhgfhf Alim",
+             "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4r1u3?ver=b726&q=90&m=2&h=768&w=1024&b=%23FFFFFFFF&aim=true"
+          }
+       ]
+    },
+    {
+       "id": 6,
+       "courses": 6,
+       "instructors": 19,
+       "students": 112,
+       "name": "NFT",
+       "img": "https://cdn-icons-png.flaticon.com/512/6699/6699362.png",
+       "course": [
+          {
+             "id": 161,
+             "Name": "The Ultimate NFT Course 2022: Buy, Sell, Create & Trade NFTs",
+             "time": 1,
+             "enrolled": 100,
+             "category": "NFT",
+             "price": 120,
+             "description": "This is a so long description of this course. Its an excellent course for skill development",
+             "requirement": "Anyone who can operate a computer and has internet connectivity will be able to join this course",
+             "level": "Intermidiate",
+             "instructor": "Samiul Alim",
+             "image": "https://assets.entrepreneur.com/content/3x2/2000/1647397792-nft-art2.jpg?crop=4:3"
+          }
+       ]
+    }
+ ]
