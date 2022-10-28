@@ -3,7 +3,9 @@ const app = express();
 const port = process.env.PORT || 5000;
 const cors = require('cors');
 app.use(cors())
-
+git add . 
+git commit -m "10.1"
+git push -u origin main
 
 
 const categories = require('./data/categories.json');
